@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta name="description" content="familia martinez castillo La familia Martinez Castillo consta de 6 miembros"/>
+	<meta name="keyword" content="familia, martinez, castillo"/>
+	<link rel="stylesheet" type="text/css" href=""/>
+	<script></script>
+	
+	<meta charset="utf-8">
+	<title>Familia MC</title>
+	<h1>Familia Martinez Castillo<h1>
+	
+	
+</head>
+
+<body>
+	<header>
+		<div>
+		<img src="imagenes/familia.jpg" width="80" alt="Familia Martinez Castillo">
+		</div>
+	
+	<nav>
+	
+		<ul>
+		 <li><a href="#">Inicio</a></li>
+		 <li>Martinez Ramirez</li>
+		 <li>Martinez Dacosta</li>
+		 <li>Martinez Pineda</li>
+		 <li>Martinez Castillo</li>
+		<ul>
+		
+	</nav>	
+		
+		
+	</header>
+	
+<section class="wrapper">
+	<section class="main">
+		<article>
+			<h2>Martinez</h2>
+			<p>"Martínez es un apellido patronímico muy difundido en España y América, sin un origen común. Deriva del nombre de Martín más el patronímico -ez. Según datos de 2008 del INE, es el sexto apellido más extendido entre los españoles, tras López, lo llevan como primer apellido 840.436 españoles"</p>
+
+		</article>
+		
+		<article>
+			<h2>Origen</h2>
+			<p>"Dado que "Martínez" como tal es un apellido patronímico no existe un origen común y tampoco existe un escudo único para el apellido, existiendo por una parte diferentes linajes o casas solares con derecho a usar escudo y por otra apellidos sin escudo por no pertenecer a una casa solar, no teniendo parentescos entre sí unos con otros. Sólo el estudio genealógico de un apellido permite establecer si le corresponde o no el uso de un escudo muy específico.
+
+Los apellidos patronímicos se originaron a partir del nombre del padre. En España, esta tendencia se lleva a cabo añadiendo la terminación de origen incierto "-ez" al nombre de pila Martinez, que equivaldria a "hijo de Martin", del mismo modo que sus apellidos homólogos como Rodriguez, "hijo de Rodrigo", Hernández, "Hijo de Hernando" etc"</p>
+
+		</article>
+	</section>
+	
+	<aside>
+	
+	<h3> Martinez Castillo<h3>
+	<p> La familia Martinez Castillo consta de 6 miembros <p>
+	</aside>
+
+</section>
+
+<footer>
+	<p> Andres martinez 2016</p>
+</footer>
+	
+</body>
+
+</html>
